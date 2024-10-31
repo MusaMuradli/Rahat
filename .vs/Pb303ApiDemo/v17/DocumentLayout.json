@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A844C68E-2503-45F3-ABBE-BC424806DAC2}|Rahat.Application\\Rahat.Application.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\rahat.application\\profiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844C68E-2503-45F3-ABBE-BC424806DAC2}|Rahat.Application\\Rahat.Application.csproj|solutionrelative:rahat.application\\profiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA94904-6202-40B5-BFAF-FC0196E3A618}|Academy.Application\\Academy.Application.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\academy.application\\profiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA94904-6202-40B5-BFAF-FC0196E3A618}|Academy.Application\\Academy.Application.csproj|solutionrelative:academy.application\\profiles\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844C68E-2503-45F3-ABBE-BC424806DAC2}|Rahat.Application\\Rahat.Application.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\rahat.application\\services\\productservice\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844C68E-2503-45F3-ABBE-BC424806DAC2}|Rahat.Application\\Rahat.Application.csproj|solutionrelative:rahat.application\\services\\productservice\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC92EC6-A042-48B6-BCBB-BD3A658267CC}|Rahat.API\\Rahat.API.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\rahat.api\\controllers\\\u0441ategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC92EC6-A042-48B6-BCBB-BD3A658267CC}|Rahat.API\\Rahat.API.csproj|solutionrelative:rahat.api\\controllers\\\u0441ategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC92EC6-A042-48B6-BCBB-BD3A658267CC}|Rahat.API\\Rahat.API.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\rahat.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC92EC6-A042-48B6-BCBB-BD3A658267CC}|Rahat.API\\Rahat.API.csproj|solutionrelative:rahat.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844C68E-2503-45F3-ABBE-BC424806DAC2}|Rahat.Application\\Rahat.Application.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\rahat.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A844C68E-2503-45F3-ABBE-BC424806DAC2}|Rahat.Application\\Rahat.Application.csproj|solutionrelative:rahat.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC92EC6-A042-48B6-BCBB-BD3A658267CC}|Rahat.API\\Rahat.API.csproj|c:\\users\\owner\\desktop\\pb303apidemo\\rahat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CC92EC6-A042-48B6-BCBB-BD3A658267CC}|Rahat.API\\Rahat.API.csproj|solutionrelative:rahat.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.Application\\Profiles\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Rahat.Application\\Profiles\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.Application\\Profiles\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Rahat.Application\\Profiles\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:29:59.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Academy.Application\\Profiles\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Academy.Application\\Profiles\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Academy.Application\\Profiles\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Academy.Application\\Profiles\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:28:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.Application\\Services\\ProductService\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Rahat.Application\\Services\\ProductService\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.Application\\Services\\ProductService\\ProductManager.cs",
+              "RelativeToolTip": "Rahat.Application\\Services\\ProductService\\ProductManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:23:19.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.Application\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Rahat.Application\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.Application\\Dtos\\ProductDto.cs",
+              "RelativeToolTip": "Rahat.Application\\Dtos\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:22:12.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Rahat.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.API\\appsettings.json",
+              "RelativeToolTip": "Rahat.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T14:18:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Rahat.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Rahat.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:04:56.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u0421ategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.API\\Controllers\\\u0421ategoryController.cs",
+              "RelativeDocumentMoniker": "Rahat.API\\Controllers\\\u0421ategoryController.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\Pb303ApiDemo\\Rahat.API\\Controllers\\\u0421ategoryController.cs",
+              "RelativeToolTip": "Rahat.API\\Controllers\\\u0421ategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:59:38.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\bin\Debug\net8.0\Core.Security.deps.json
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\bin\Debug\net8.0\Core.Security.dll
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\bin\Debug\net8.0\Core.Security.pdb
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.sourcelink.json
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.dll
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\refint\Core.Security.dll
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\Core.Security.pdb
+C:\Users\Owner\Desktop\Pb303ApiDemo\Core.Security\obj\Debug\net8.0\ref\Core.Security.dll

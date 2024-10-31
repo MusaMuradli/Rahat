@@ -1,0 +1,13 @@
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\bin\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.deps.json
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\bin\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.dll
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\bin\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.pdb
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.sourcelink.json
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.dll
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\refint\Pb303ApiDemo.ServiceDefaults.dll
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\Pb303ApiDemo.ServiceDefaults.pdb
+C:\Users\Owner\Desktop\Pb303ApiDemo\Pb303ApiDemo.ServiceDefaults\obj\Debug\net8.0\ref\Pb303ApiDemo.ServiceDefaults.dll

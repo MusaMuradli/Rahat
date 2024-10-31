@@ -1,0 +1,6 @@
+@Rahat.API_HostAddress = http://localhost:5236
+
+GET {{Rahat.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
